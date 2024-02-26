@@ -1,0 +1,50 @@
+* {
+    background-color: rgb(0, 3, 19);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.containerContainer {
+    margin-top:300px;
+}
+
+.container {
+    padding:25px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(39, 0, 90);
+    border-radius: 20px;
+    text-align: center;
+
+}
+
+#titleLbl {
+    color:rgb(35, 0, 92);
+    font-size:1.5em;
+    font-weight:600;
+    margin:25px 0px 25px 0px;
+    cursor: default;
+}
+
+#nameInput {
+    color:rgb(55, 0, 255);
+    font-weight:600;
+    font-size:1.5em;
+    margin-top:35px;
+    text-decoration: underline;
+    cursor: default;
+    
+}
+
+#generateBtn {
+    background-color: rgb(14, 0, 27);
+    height:50px;
+    width:200px;
+    border-radius: 15px;
+    border:none;
+    color:rgb(35, 0, 92);
+    font-weight:600;
+    font-size:1.5em;
+    margin:auto;
+    cursor: crosshair;
+}
+
